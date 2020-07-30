@@ -1,0 +1,19 @@
+addr:
+  host: "0.0.0.0"
+  port: 1965
+
+cert:
+  certFile: "/path/to/my.crt"
+  keyFile: "/path/to/my.key"
+
+twitter:
+  consumerKey: ""
+  consumerSecret: ""
+  accessToken: ""
+  accessSecret: ""
+  userID: 0
+  screenName: ""
+
+ui:
+  asciiLogoFile: "logo.txt"
+  delimiter: "--"
